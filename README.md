@@ -25,8 +25,8 @@ cd student-quote-app
 
 ## Getting Started
 
---> yarn add 
---> yarn build 
---> yarn run start
+- ** yarn add 
+- ** yarn build 
+- ** yarn run start
 
 

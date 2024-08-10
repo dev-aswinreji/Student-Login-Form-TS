@@ -20,7 +20,7 @@ The Student Quote App is a simple CRUD application that allows students to log i
 
 ```bash
 git clone https://github.com/dev-aswinreji/student-quote-app-ts.git
-cd student-quote-app
+cd student-quote-app-ts
 ```
 ## Getting Started
 

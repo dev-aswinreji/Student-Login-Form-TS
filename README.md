@@ -19,10 +19,9 @@ The Student Quote App is a simple CRUD application that allows students to log i
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dev-aswinreji-dev/student-quote-app-ts.git
+git clone https://github.com/dev-aswinreji/student-quote-app-ts.git
 cd student-quote-app
 ```
-
 ## Getting Started
 
 - **yarn add** 
